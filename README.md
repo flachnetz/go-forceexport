@@ -10,13 +10,13 @@ by name.
 As you might expect, this library is **unsafe** and **fragile** and probably
 shouldn't be used in production. See "Use cases and pitfalls" below.
 
-It has only been tested on Mac OS X with Go 1.6. If you find that it works or
-breaks on other platforms, feel free to submit a pull request with a fix and/or
-an update to this paragraph.
+It has only been tested on GNU/Linux with Go 1.12.1.
+If you find that it works or breaks on other platforms, feel free to submit
+a pull request with a fix and/or an update to this paragraph.
 
 ## Installation
 
-`$ go get github.com/alangpierce/go-forceexport`
+`$ go get github.com/iamybj/go-forceexport`
 
 ## Usage
 
